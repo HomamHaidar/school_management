@@ -37,8 +37,6 @@ Here is how you can run the project locally:
     ```
 1. Create database `school` (you can change database name)
 
-
-
 1. Install PHP dependencies 
     ```sh
     composer install
