@@ -22,16 +22,16 @@ class DatabaseSeeder extends Seeder
         // ]);
 
         $this->call(UserSeeder::class);
-        $this->call(GradeSeeder::class);
-        $this->call(ClassroomTableSeeder::class);
-        $this->call(SectionsTableSeeder::class);
-        $this->call(BloodTableSeeder::class);
-        $this->call(NationalitieTableSeeder::class);
-        $this->call(ReligionsTableSeeder::class);
-        $this->call(SpecializationsTabelSeeder::class);
-        $this->call(GenderTabelSeeder::class);
-        $this->call(ParentsTableSeeder::class);
-        $this->call(StudentsTableSeeder::class);
+        // $this->call(GradeSeeder::class);
+        // $this->call(ClassroomTableSeeder::class);
+        // $this->call(SectionsTableSeeder::class);
+        // $this->call(BloodTableSeeder::class);
+        // $this->call(NationalitieTableSeeder::class);
+        // $this->call(ReligionsTableSeeder::class);
+        // $this->call(SpecializationsTabelSeeder::class);
+        // $this->call(GenderTabelSeeder::class);
+        // $this->call(ParentsTableSeeder::class);
+        // $this->call(StudentsTableSeeder::class);
         $this->call(SettingTableSeeder::class);
 
     }
