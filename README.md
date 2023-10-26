@@ -49,10 +49,6 @@ Here is how you can run the project locally:
     php artisan key:generate
     ```
 
-1. install front-end dependencies
-    ```sh
-    npm install && npm run build
-    ```
 
 1. Run migration
     ```
@@ -63,14 +59,12 @@ Here is how you can run the project locally:
     ```
     php artisan db:seed
     ```
-    this command will create 2 users (admin and normal user):
-     > email: admin@gmail.com , password: password
-
-     > email: user@gmail.com , password: password 
-
+  
 1. Run server 
-    > for valet users visit `velflix.test` in your favorite browser
+
    
     ```sh
     php artisan serve
     ```  
+Visit localhost:8000 in your favorite browser.
+
