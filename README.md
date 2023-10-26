@@ -5,8 +5,6 @@ A comprehensive school management system that allows you to control the academic
 
 
 ## Features
-
-- Light/dark mode ⚪️⚫️
 - EN/AR 🌐
 - Fullscreen mode 🖥
 - Determine the number of academic stages in your school, in addition to the currently active classes 📖
