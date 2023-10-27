@@ -3,6 +3,8 @@
 
 A comprehensive school management system that allows you to control the academic grades, classes, and sections, along with the ability to manage the students and teachers within them. The system will also have multiple levels of permissions for the accounts of parents, students, and teachers, in addition to managing the school's financial matters.
 
+![image_2023-10-27_07-55-36](https://github.com/HomamHaidar/school_management/assets/147708704/345b2ff6-9a7b-4548-bcfd-36bec03d7e7e)
+
 
 ## Features
 - EN/AR 🌐
